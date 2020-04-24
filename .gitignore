@@ -1,4 +1,7 @@
 cache/
+test/
+*.pkl
+out.*
 
 # Pycharm project files
 .idea/
